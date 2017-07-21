@@ -1,2 +1,2 @@
 # TestGitWin
-test README
+test README OUT
